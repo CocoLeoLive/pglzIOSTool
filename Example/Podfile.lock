@@ -1,5 +1,5 @@
 PODS:
-  - pglzIOSTool (0.1.0)
+  - pglzIOSTool (0.0.4)
 
 DEPENDENCIES:
   - pglzIOSTool (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  pglzIOSTool: afb318cb93a0048ebed61c358b718adf640584d7
+  pglzIOSTool: bfaf78ead82b004bd11b34ecaf30969756864335
 
 PODFILE CHECKSUM: 564f4c8a7ada12dc2e78863bbc7becec42dcc176
 
