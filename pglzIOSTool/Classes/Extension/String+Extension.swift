@@ -9,7 +9,7 @@
 import UIKit
 
 extension String {
-    func lengthOfBytesInChinise() -> Int{
+    public func lengthOfBytesInChinise() -> Int{
         var length = 0
         for char in self {
             length += "\(char)".lengthOfBytes(using: String.Encoding.utf8) == 3 ? 2:1
