@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'pglzIOSTool_Example' do
+  pod 'pglzIOSTool', :path => '../'
+
+  target 'pglzIOSTool_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

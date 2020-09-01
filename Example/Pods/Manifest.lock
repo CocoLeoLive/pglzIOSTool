@@ -1,0 +1,16 @@
+PODS:
+  - pglzIOSTool (0.1.0)
+
+DEPENDENCIES:
+  - pglzIOSTool (from `../`)
+
+EXTERNAL SOURCES:
+  pglzIOSTool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  pglzIOSTool: afb318cb93a0048ebed61c358b718adf640584d7
+
+PODFILE CHECKSUM: 564f4c8a7ada12dc2e78863bbc7becec42dcc176
+
+COCOAPODS: 1.9.1
