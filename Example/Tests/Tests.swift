@@ -1,5 +1,4 @@
 import XCTest
-import pglzIOSTool
 
 class Tests: XCTestCase {
     

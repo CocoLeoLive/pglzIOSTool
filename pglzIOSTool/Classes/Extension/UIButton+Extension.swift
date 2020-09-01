@@ -171,7 +171,7 @@ extension UIButton {
 extension UIButton {
     
     func showIndicator(style: UIActivityIndicatorView.Style = .white) {
-        let indicator = UIActivityIndicatorView.init(activityIndicatorStyle: style)
+        let indicator = UIActivityIndicatorView.init(style: style)
         indicator.center = CGPoint(x: bounds.size.width / 2, y: bounds.size.height / 2)
         indicator.startAnimating()
         

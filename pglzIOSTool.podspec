@@ -29,8 +29,8 @@ TODO: pglzIOSTool 是贼🐂🍺的工具库.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
-
-  s.source_files = 'pglzIOSTool/Classes/**/*'
+  s.swift_version = '5.0'
+  s.source_files = 'pglzIOSTool/Classes/**/*.{swift}'
   
   # s.resource_bundles = {
   #   'pglzIOSTool' => ['pglzIOSTool/Assets/*.png']
