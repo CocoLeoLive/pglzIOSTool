@@ -1,6 +1,6 @@
 {
   "name": "pglzIOSTool",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "pglzIOSTool 是贼🐂🍺的工具库.",
   "description": "TODO: pglzIOSTool 是贼🐂🍺的工具库.",
   "homepage": "https://github.com/CocoLeoLive/pglzIOSTool",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/CocoLeoLive/pglzIOSToolSpecs.git",
-    "tag": "0.0.4"
+    "tag": "0.0.5"
   },
   "platforms": {
     "ios": "8.0"
